@@ -32,3 +32,6 @@ Console.WriteLine("overvej at spille yorick top lane, hvem gør det???!");
 
 
 Console.WriteLine("jepper spiller sikkert også teemo top xD ");
+
+
+Console.WriteLine("Virker det her pjat nu?");
