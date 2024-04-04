@@ -12,15 +12,19 @@ for  (int i = 0; i < 10; i++)
 
 Console.WriteLine("Fladfisk kan flyve");
 
+//FladFisk
+
+Console.WriteLine("Hej");
+
+Console.WriteLine("Fladfisk kan flyve");
+
 Console.WriteLine("nej de ka sku ej xD");
 
-
-Console.WriteLine("det kan de altså godt");
-
-
-
-
-
+while (number > 0)
+{
+    Console.WriteLine(number);
+    number--;
+}
 
 Console.WriteLine("overvej at spille yorick top lane, hvem gør det???!");
 
