@@ -15,3 +15,6 @@ Console.WriteLine("Fladfisk kan flyve");
 //FladFisk
 
 Console.WriteLine("Hej");
+Console.WriteLine("Fladfisk kan flyve");
+
+Console.WriteLine("nej de ka sku ej xD");
