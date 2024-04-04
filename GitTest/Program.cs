@@ -18,3 +18,8 @@ Console.WriteLine("nej de ka sku ej xD");
 Console.WriteLine("det kan de altså godt");
 
 
+
+
+
+
+Console.WriteLine("overvej at spille yorick top lane, hvem gør det???!");
