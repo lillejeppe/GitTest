@@ -25,3 +25,8 @@ while (number > 0)
     Console.WriteLine(number);
     number--;
 }
+
+
+Console.WriteLine("det kan de altså godt");
+
+Console.WriteLine("overvej at spille yorick top lane, hvem gør det???!");
