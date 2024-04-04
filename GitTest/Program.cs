@@ -11,3 +11,5 @@ for  (int i = 0; i < 10; i++)
 }
 
 Console.WriteLine("Fladfisk kan flyve");
+
+Console.WriteLine("nej de ka sku ej xD");
