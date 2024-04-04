@@ -7,3 +7,6 @@
     }
     return sum;
 }
+
+
+// plz sky gå væk 
