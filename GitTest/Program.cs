@@ -35,3 +35,5 @@ Console.WriteLine("jepper spiller sikkert også teemo top xD ");
 
 
 Console.WriteLine("Virker det her pjat nu?");
+
+Console.WriteLine("måske det virker, måske ikke");
