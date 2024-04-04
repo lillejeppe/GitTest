@@ -1,39 +1,18 @@
-﻿//SUP FUCKERS!
-//BRANCH TEST
-
-Console.WriteLine("Jeg spiser fisk for sjov :)");
-
-int number = 0;
-for  (int i = 0; i < 10; i++)
+﻿double Sum(int[] array)
 {
-    Console.WriteLine(number);
-    number++;
+    double sum = 0;
+    for (int i = 0; i < array.Length; i++)
+    {
+        sum += array[i];
+    }
+    return sum;
 }
 
-Console.WriteLine("Fladfisk kan flyve");
 
-//FladFisk
-
-Console.WriteLine("Hej");
-
-Console.WriteLine("Fladfisk kan flyve");
-
-Console.WriteLine("nej de ka sku ej xD");
-
-while (number > 0)
-{
-    Console.WriteLine(number);
-    number--;
-}
-
-Console.WriteLine("overvej at spille yorick top lane, hvem gør det???!");
+// plz sky gå væk 
 
 
+// come on now
 
 
-Console.WriteLine("jepper spiller sikkert også teemo top xD ");
-
-
-Console.WriteLine("Virker det her pjat nu?");
-
-Console.WriteLine("måske det virker, måske ikke");
+// fuck lol
