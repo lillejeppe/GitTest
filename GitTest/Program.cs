@@ -16,3 +16,5 @@
 
 
 // fuck lol
+
+//edit fra github af.
